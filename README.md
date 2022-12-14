@@ -10,6 +10,9 @@
 	<a href="https://github.com/kaanks">
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kaanks&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="kaanks"/>
 	</a>
+  <a href="https://github.com/kaanks">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanks&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="kaanks"/>
+	</a>
 </p>
 
 # Contact
