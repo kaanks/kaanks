@@ -15,6 +15,9 @@
 	</a>
 </p>
 
+[<img align="right" width="50%" src="https://github-readme-stats-kaanks.vercel.app/api?username=kaanks&theme=dark&show_icons=true">](https://metrics.lecoq.io/kaanks#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+
 # Contact
 
 You can communicate with me via 
